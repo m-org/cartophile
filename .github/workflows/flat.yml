@@ -3,6 +3,8 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
+  schedule:
+    - cron: 47 22 * * *
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -13,3 +15,8 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://support.apple.com/en-us/HT207958
+          downloaded_filename: apply-pay-transit
