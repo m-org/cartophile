@@ -5,7 +5,7 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-            <title lang="en">Where you can ride transit with Apple Pay - Apple Support</title>
+            <title lang="en">Where you can ride transit using Apple Pay - Apple Support</title>
             <link rel="dns-prefetch" href="https://www.apple.com/" />
             <link rel="preconnect" href="https://www.apple.com/" crossorigin />
 
@@ -236,12 +236,12 @@
                    
 
             
-                <meta name="description" content="Learn some of the countries and regions where you can ride transit using Apple Pay on your iPhone and Apple Watch.
+                <meta name="description" content="Learn where you can ride transit using Apple Pay on your iPhone and Apple Watch.
 
 " />
                 <meta property="og:url" content="https://support.apple.com/en-us/HT207958" />
-                <meta property="og:title" content="Where you can ride transit with Apple Pay" />
-                <meta property="og:description" content="Learn some of the countries and regions where you can ride transit using Apple Pay on your iPhone and Apple Watch.
+                <meta property="og:title" content="Where you can ride transit using Apple Pay" />
+                <meta property="og:description" content="Learn where you can ride transit using Apple Pay on your iPhone and Apple Watch.
 
 " />
                 <meta property="og:site_name" content="Apple Support" />
@@ -251,7 +251,7 @@
 
                 
 
-                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2021-04-15T04:49:16"}</script>
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2021-09-20T07:42:15"}</script>
 
             
 
@@ -280,12 +280,12 @@
             locale: "en-us",
             
             friendly_content: {
-                title: `Where you can ride transit with Apple Pay`,
-                publish_date: "04152021",
+                title: `Where you can ride transit using Apple Pay`,
+                publish_date: "09202021",
                 
                     content_id: "HT207958",
                     status: "unarchieved",
-                    version: "1.65.38.20"
+                    version: "1.65.38.28"
                 
             },
             
@@ -367,8 +367,8 @@
                                 <div class="main" role="main" id="howto-section">
                                     <div id="content" >
                                         
-                                        <h1  id="howto-title" itemprop='headline'>Where you can ride transit with Apple Pay</h1>
-                                        <div class="intro"><p>Learn some of the countries and regions where you can ride transit using Apple Pay on your iPhone and Apple Watch.</p>
+                                        <h1  id="howto-title" itemprop='headline'>Where you can ride transit using Apple Pay</h1>
+                                        <div class="intro"><p>Learn where you can ride transit using Apple Pay on your iPhone and Apple Watch.</p>
 
 </div>
                                         
@@ -386,12 +386,47 @@
     
 
     
-            <h2>Choose a method for riding transit with Apple Pay</h2>
-            <div  ><ul>
-<li><a href="#withexpresstransit">With Express Transit mode</a></li>
-<li><a href="#withoutexpresstransit">Without Express Transit mode</a></li>
+            
+            <div  ><p>If your country or region isn't listed, check with your transit agency to see if they support payment using Apple Pay.</p>
+<p>Depending on your location, you can&nbsp;<a href="https://support.apple.com/en-us/HT209494" aria-label="Add a transit card to Apple Wallet">add a transit card</a>&nbsp;or use the payment cards already in your Wallet app.</p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2>Asia-Pacific</h2>
+            <div  ><p><strong>Australia</strong></p>
+<ul>
+<li>Sydney: Transport for NSW. Accepts payment cards in the Wallet app.</li>
 </ul>
-<p>If you don't see your country or region listed below, check with your&nbsp;local&nbsp;transit agency to see if they support payment using Apple Pay. Additional countries and regions might support using Apple Pay to pay for transit.</p>
+<p><strong>China mainland</strong></p>
+<ul>
+<li>Add a China T-Union transit card*. Ride anywhere this card is accepted.</li>
+<li>Beijing: Add a Beijing Transit card*. Ride anywhere this card is accepted.</li>
+<li>Shanghai: Add a Shanghai Transit card*. Ride anywhere this card is accepted.</li>
+</ul>
+<p><strong>Hong Kong</strong></p>
+<ul>
+<li><strong></strong>Add an Octopus card*. Ride anywhere this card is accepted.</li>
+</ul>
+<p><strong>Japan</strong></p>
+<ul>
+<li>Add a Suica card* or a PASMO card*. Ride anywhere these cards is accepted.</li>
+</ul>
+<p><strong>Singapore</strong></p>
+<ul>
+<li>Land Transport Authority (LTA). Accepts payment cards in the Wallet app.</li>
+</ul>
+<p><strong>Taiwan</strong></p>
+<ul>
+<li>Kaohsiun and Taoyuan Airport MRT. Accepts payment cards in the Wallet app.</li>
+</ul>
+<p><span class="note">*<a href="https://support.apple.com/kb/HT212171" aria-label="Use Express Mode with transit cards">Express Mode</a> supported.</span></p>
 
 </div>
             
@@ -414,113 +449,28 @@
     
 
     
-            <h2 id="withexpresstransit">Where you can use Apple Pay with Express Transit mode</h2>
-            <div  ><p>Depending on your transit agency, you might be able to&nbsp;<a href="https://support.apple.com/kb/HT209494#setupexpress">set up a transit or payment&nbsp;card in Wallet</a>&nbsp;to <a href="https://support.apple.com/kb/HT209495">use with&nbsp;Express Transit mode</a>.*</p>
-<p>Learn some of the countries and regions&nbsp;where you can use Express Transit mode to pay for rides with Apple Pay.</p>
-<p><span class="note">*Not all transit and payment cards are supported. Check with your transit agency for information about the cards that&nbsp;you can use with Apple&nbsp;Pay for transit.</span></p>
-
-</div>
-            
-                
-    
-        <div >
-    
-
-    
-            <h3>China mainland</h3>
-            <div  ><ul >
-<li>Anywhere&nbsp;<a href="https://support.apple.com/kb/HT208538">China T-Union transit cards</a>&nbsp;are accepted<br>
-</li>
-<li>Beijing: <a href="https://support.apple.com/kb/HT208538">Beijing Transit cards</a>&nbsp;and <a href="https://support.apple.com/kb/HT208538">China T-Union transit cards</a></li>
-<li>Shanghai: <a href="https://support.apple.com/kb/HT208538">Shanghai Transit cards</a></li>
+            <h2>Europe</h2>
+            <div  ><p><strong>Belarus</strong></p>
+<ul>
+<li>Minsk: Minsk Metro. Accepts payment cards in the Wallet app*.</li>
 </ul>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>Finland</h3>
-            <div  ><ul>
-<li>Anywhere&nbsp;<a href="https://www.foli.fi/fi/föli-tuo-ensimmäisenä-suomessa-lähimaksamisen-paikallisliikenteeseen">Föli transit operators</a> accept payment cards in Wallet</li>
+<p><strong>Finland</strong></p>
+<ul>
+<li>Turku: Föli. Accepts payment cards in the Wallet app*.</li>
 </ul>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>Hong Kong</h3>
-            <div  ><ul >
-<li>All forms of transit that accept <a href="https://www.octopus.com.hk/">Octopus card</a></li>
+<p><strong>Russia</strong></p>
+<ul>
+<li>Multiple cities accept payment cards in the Wallet app.</li>
 </ul>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>Japan</h3>
-            <div  ><ul >
-<li>All&nbsp;forms of transit that accept&nbsp;<a href="https://support.apple.com/kb/ht207154">Suica&nbsp;or PASMO</a></li>
+<p><strong>United Kingdom</strong></p>
+<ul>
+<li>First Bus Group.&nbsp;Accepts payment cards in the Wallet app*.</li>
+<li>London: Transport for London (TfL). Accepts payment cards in the Wallet app*.</li>
+<li>Arriva UK Bus. Accepts payment cards in the Wallet app.*</li>
 </ul>
+<p><span class="note">*<a href="https://support.apple.com/kb/HT212171" aria-label="Use Express Mode with transit cards">Express Mode</a> supported.</span></p>
 
 </div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>United Kingdom</h3>
-            <div  ><ul >
-<li>All <a href="https://www.firstgroup.com">First Bus Group</a> transit operators<br>
-</li>
-<li>London:&nbsp;Transport for London (TfL) accepts payment cards in Wallet</li>
-</ul>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>United States</h3>
-            <div  ><ul >
-<li>Chicago: All forms of transit that accept <a href="https://www.ventrachicago.com/apple-pay/">Ventra</a></li>
-<li>Los Angeles: All transit operators that accept <a href="https://www.taptogo.net/articles/en_US/Website_content/iPhone-and-Apple-Watch">the TAP Card</a> in Wallet<br>
-</li>
-<li>New York City: <a href="http://www.omny.info">Metropolitan Transportation Authority</a> (MTA) accepts payment cards in Wallet at select stations<br>
-</li>
-<li>Portland:&nbsp;All forms of transit that accept <a href="https://trimet.org/applepay/">Hop Fastpass</a>&nbsp;also accept&nbsp;payment cards&nbsp;in Wallet</li>
-<li>San Francisco Bay Area: All transit operators that accept <a href="https://www.clippercard.com/ClipperWeb/apple-pay.html">the Clipper card</a><br>
-</li>
-<li>Washington, D.C.: All transit operators that accept <a href="http://www.wmata.com/applepay">the SmarTrip card</a> in Wallet<br>
-</li>
-</ul>
-
-</div>
-            
-        </div>
-
-
             
         </div>
 
@@ -541,163 +491,21 @@
     
 
     
-            <h2 id="withoutexpresstransit">Where you can use Apple Pay without Express Transit mode</h2>
-            <div  ><p>If <a href="https://support.apple.com/kb/HT209545">you don't use Express Transit mode</a>, you must authenticate your ride purchase at the transit terminal or gate with Face ID, Touch ID, or a passcode.</p>
-<p>Learn some of the&nbsp;countries and regions&nbsp;where you can use a payment card in the Wallet app&nbsp;to&nbsp;pay for transit on your iPhone or Apple Watch&nbsp;without Express Transit mode.</p>
-
-</div>
-            
-                
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>Australia</h3>
-            <div  ><ul >
-<li>Sydney: <a href="https://transportnsw.info/tickets-opal/opal/contactless-payments">Transport for NSW</a></li>
+            <h2>North America</h2>
+            <div  ><p><strong>Canada</strong></p>
+<ul>
+<li>Vancouver: TransLink. Accepts payment cards in the Wallet app.</li>
 </ul>
-
-</div>
-            
-        </div>
-
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>Singapore</h3>
-            <div  ><ul>
-<li><a href="https://simplygo.transitlink.com.sg/">Land Transport Authority (LTA)</a></li>
+<p><strong>United States</strong></p>
+<ul>
+<li>Chicago: Add a Ventra card*. Ride anywhere this card is accepted or pay with payment cards in the Wallet app.</li>
+<li>Los Angeles: Add a TAP card*. Ride anywhere these cards are accepted.</li>
+<li>New York City: Metropolitan Transportation Authority (MTA). Accepts payment cards in the Wallet app*.</li>
+<li>Portland: Add a Hop Fastpass*. Ride anywhere this card is accepted or pay with payment cards in the Wallet app.</li>
+<li>San Francisco Bay Area: Add a Clipper card*. Ride anywhere this card is accepted.</li>
+<li>Washington, D.C.: Add a SmarTrip card*. Ride anywhere this cards is accepted or pay with payment cards in the Wallet app.</li>
 </ul>
-
-</div>
-            
-        </div>
-
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>Canada</h3>
-            <div  ><ul>
-<li>Vancouver: TransLink</li>
-</ul>
-
-</div>
-            
-        </div>
-
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>Taiwan</h3>
-            <div  ><ul >
-<li>Kaohsiung</li>
-<li>Taoyuan Airport MRT<br>
-</li>
-</ul>
-
-</div>
-            
-        </div>
-
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>China mainland</h3>
-            <div  ><ul>
-<li>Hangzhou</li>
-<li>Nanjing</li>
-<li>Tianjin</li>
-</ul>
-<p>&nbsp;</p>
-
-</div>
-            
-        </div>
-
-    
-        <div class="grid2col">
-    
-
-    
-            <h3>United States</h3>
-            <div  ><ul>
-<li>Chicago:&nbsp;<a href="https://www.ventrachicago.com/featured-questions/#386">Ventra system</a></li>
-</ul>
-<p>&nbsp;</p>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h3>Russia</h3>
-            <div  ><ul>
-<li>Moscow:&nbsp;<a href="http://www.mosmetro.ru/tariffs/apple-pay/">Moscow Metro</a></li>
-<li>Novosibirsk</li>
-<li>Saint Petersburg</li>
-</ul>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            
-            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="810"></p>
-
-</div>
-            
-        </div>
-
-
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            
-            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/divider.png"></p>
-
-</div>
-            
-        </div>
-
-    
-        <div >
-    
-
-    
-            <h2>Learn more</h2>
-            <div  ><ul>
-<li><a href="https://support.apple.com/kb/ht204506">Set up Apple Pay on your iPhone or Apple Watch</a></li>
-<li><a href="https://support.apple.com/kb/HT209494">Set up a card in the Wallet app to ride transit with Apple Pay</a><br>
-</li>
-<li>See all of the <a href="https://support.apple.com/kb/HT208531">devices that are compatible with Apple pay</a><br>
-</li>
-<li><a href="https://support.apple.com/kb/HT207154">Use Suica&nbsp;or PASMO on your iPhone or Apple Watch</a> in Japan</li>
-<li><a href="https://support.apple.com/kb/HT208539">Use Express Transit with Apple Pay in China mainland</a></li>
-<li><a href="https://support.apple.com/kb/HT208538">Add a transit card to Apple Pay&nbsp;in China mainland</a></li>
-</ul>
+<p><span class="note">*<a href="https://support.apple.com/kb/HT212171" aria-label="Use Express Mode with transit cards">Express Mode</a> supported.</span></p>
 
 </div>
             
@@ -708,7 +516,7 @@
                                         
                                         
                                             <div class='mod-date'>
-                                                <span>Published Date:</span>&nbsp;<time dateTime=2021-04-15 itemprop='datePublished'>April 15, 2021</time>
+                                                <span>Published Date:</span>&nbsp;<time dateTime=2021-09-20 itemprop='datePublished'>September 20, 2021</time>
                                             </div>
                                         
                                     </div>
@@ -917,7 +725,7 @@
 
                                 
                                     <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
-                                        <span property="name">Where you can ride transit with Apple Pay</span>
+                                        <span property="name">Where you can ride transit using Apple Pay</span>
                                         <meta property="position" content="2" />
                                     </li>
                                 
