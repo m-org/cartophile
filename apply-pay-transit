@@ -261,7 +261,7 @@
 
                 
 
-                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2021-09-20T07:42:15"}</script>
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2021-10-21T08:48:36"}</script>
 
             
 
@@ -291,11 +291,11 @@
             
             friendly_content: {
                 title: `Where you can ride transit using Apple Pay`,
-                publish_date: "09202021",
+                publish_date: "10212021",
                 
                     content_id: "HT207958",
                     status: "unarchieved",
-                    version: "1.65.38.28"
+                    version: "1.65.38.33"
                 
             },
             
@@ -472,11 +472,18 @@
 <ul>
 <li>Multiple cities accept payment cards in the Wallet app.</li>
 </ul>
+<p><strong>Sweden</strong></p>
+<ul>
+<li>Skåne: Skånetrafiken city buses. Accepts payment cards in Wallet app*.&nbsp;</li>
+</ul>
 <p><strong>United Kingdom</strong></p>
 <ul>
+<li>Arriva UK Bus. Accepts payment cards in the Wallet app.*</li>
+<li>Brighton & Hove Buses. Accepts payment cards in Wallet app*.</li>
 <li>First Bus Group.&nbsp;Accepts payment cards in the Wallet app*.</li>
 <li>London: Transport for London (TfL). Accepts payment cards in the Wallet app*.</li>
-<li>Arriva UK Bus. Accepts payment cards in the Wallet app.*</li>
+<li>Metrobus. Accepts payment cards in Wallet app*.</li>
+<li>Oxford Bus Company. Accepts payment cards in Wallet app*.</li>
 </ul>
 <p><span class="note">*<a href="https://support.apple.com/kb/HT212171" aria-label="Use Express Mode with transit cards">Express Mode</a> supported.</span></p>
 
@@ -526,7 +533,7 @@
                                         
                                         
                                             <div class='mod-date'>
-                                                <span>Published Date:</span>&nbsp;<time dateTime=2021-09-20 itemprop='datePublished'>September 20, 2021</time>
+                                                <span>Published Date:</span>&nbsp;<time dateTime=2021-10-21 itemprop='datePublished'>October 21, 2021</time>
                                             </div>
                                         
                                     </div>
