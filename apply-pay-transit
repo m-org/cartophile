@@ -351,7 +351,7 @@
                     domain: "support.apple.com",
                     dtmPageName: "acs.pageload",
                     showRecommendation : false,
-                    configApiURL : "https://km.support.apple.com/ols/api/config"
+                    recommendationThrottleValue : 0.0
                 }
                 window.appState = JSON.stringify(data);
 
@@ -381,6 +381,8 @@
                                         <div class="intro"><p>Learn where you can ride transit using Apple Pay on your iPhone and Apple Watch.</p>
 
 </div>
+                                        
+
                                         
 
                                         <div itemprop='author' itemscope itemtype='http://schema.org/Organization'>
@@ -548,7 +550,9 @@
     <div id='question-state' class='show'>
         <fieldset>
             <legend>
-                <span id="okapi-a">Helpful?</span>
+                <div id="okapi-a">
+                    <span>Helpful?</span>
+                </div>
                 
             </legend>
             <div class='helpful-btn-grp'>
@@ -577,7 +581,7 @@
             <input type='hidden' id='form-counter-error-message' 
                 value="Maximum character limit is 250."
             />
-            <label id='feedback-label'
+            <label id='feedback-label' htmlFor='feedback' 
                 data-no-label="Thanks for letting us know."
                 data-yes-label="We’re glad this article helped."
             ></label>
@@ -626,9 +630,6 @@
 
             </div>
    
-             
-            
-
             
             <div id='ask-widget-wrapper' class='css-not-downloaded discussions'>
                 <div id='ask-widget'>
@@ -668,8 +669,6 @@
                             maxLength='255'
                             aria-labelledby="placeholder-text"
                             aria-invalid="false"
-                            value=''
-                            autocomplete="off"
                         />
                         <span class="form-label" id="placeholder-text" aria-hidden="true">Ask other users about this article</span>
                     </div>
