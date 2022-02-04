@@ -274,6 +274,8 @@
             
                 <link rel="stylesheet" href="https://www.apple.com/ac/globalfooter/3/en_US/styles/ac-globalfooter.built.css" type="text/css" /> 
             
+                <link rel="stylesheet" href="https://www.apple.com/ac/globalnav/5/en_US/styles/ac-globalnav.built.css" type="text/css" /> 
+            
                 <link rel="stylesheet" href="//www.apple.com/wss/fonts?families&#x3D;SF+Pro,v1:200,300,400,500,600|SF+Pro+Icons,v1" type="text/css" /> 
             
             <script>
@@ -605,12 +607,9 @@
                 <div class='form-message-wrapper'>
                     <span class='form-message'>Maximum character limit is 250.</span>
                 </div>
-                <button type='submit' class='button' id="submit-feedback"
-                   data-ss-analytics-link-component_type='helpful'
-                    data-ss-analytics-link-text='submit'>
+                <button type='submit' class='button' id="submit-feedback">
                     Submit
                 </button>
-
             </div>
         </form>
     </div>
@@ -700,7 +699,7 @@
             
 
             
-            <div id='cas' class='hidden'>
+            <div id='cas'>
                 <div id='promo' class='one'></div>
             </div>
             
@@ -765,8 +764,6 @@
                 <script src="https://support.apple.com/clientside/build/FujiStitchPath.js" type="text/javascript" charset="utf-8"></script>
             
                 <script src="https://support.apple.com/clientside/build/app-ht-route.js" type="text/javascript" charset="utf-8"></script>
-            
-                <script src="https://support.apple.com/clientside/build/app-launch-route.js" type="text/javascript" charset="utf-8"></script>
             
                 <script src="/etc/designs/support/publish/JS/pattern/accsoffer.js" type="text/javascript" charset="utf-8"></script>
             
