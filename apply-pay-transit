@@ -348,7 +348,7 @@
                     isOkapiEnabled: false,
                     domain: "support.apple.com",
                     dtmPageName: "acs.pageload",
-                    showRecommendation : false,
+                    showRecommendation : true,
                     configApiURL : "https://support.apple.com/ols/api/config"
                 }
                 window.appState = JSON.stringify(data);
@@ -632,7 +632,14 @@
 
             </div>
    
-             
+              
+                <input id="recommendationsHeading" type="hidden" value="Related topics" />
+                <div id='recommendationsWrapper' class='recommendationsWrapper hidden'>
+                    <div class='recommendations contentWrapper'> 
+                        <div id="recommendations-section" class='recommendations-section'></div>	
+                    </div>
+                </div>      
+            
             
 
             
