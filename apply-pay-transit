@@ -261,7 +261,7 @@
 
                 
 
-                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2022-06-30T08:19:39"}</script>
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2021-10-21T08:48:36"}</script>
 
             
 
@@ -289,11 +289,11 @@
             
             friendly_content: {
                 title: `Where you can ride transit using Apple Pay`,
-                publish_date: "06302022",
+                publish_date: "10212021",
                 
                     content_id: "HT207958",
                     status: "unarchieved",
-                    version: "1.65.38.35"
+                    version: "1.65.38.33"
                 
             },
             
@@ -521,7 +521,7 @@
 <li>New York City: Metropolitan Transportation Authority (MTA). Accepts payment cards in the Wallet app*.</li>
 <li>Portland: Add a Hop Fastpass*. Ride anywhere this card is accepted or pay with payment cards in the Wallet app.</li>
 <li>San Francisco Bay Area: Add a Clipper card*. Ride anywhere this card is accepted.</li>
-<li>Washington, D.C.: Add a SmarTrip card*. Ride anywhere this card&nbsp;is accepted.</li>
+<li>Washington, D.C.: Add a SmarTrip card*. Ride anywhere this cards is accepted or pay with payment cards in the Wallet app.</li>
 </ul>
 <p><span class="note">*<a href="https://support.apple.com/kb/HT212171" aria-label="Use Express Mode with transit cards">Express Mode</a> supported.</span></p>
 
@@ -534,7 +534,7 @@
                                         
                                         
                                             <div class='mod-date'>
-                                                <span>Published Date:</span>&nbsp;<time dateTime=2022-06-30 itemprop='datePublished'>June 30, 2022</time>
+                                                <span>Published Date:</span>&nbsp;<time dateTime=2021-10-21 itemprop='datePublished'>October 21, 2021</time>
                                             </div>
                                         
                                     </div>
