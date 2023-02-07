@@ -8,6 +8,8 @@
             <title lang="en">Where you can ride transit using Apple Pay - Apple Support</title>
             <link rel="dns-prefetch" href="https://www.apple.com/" />
             <link rel="preconnect" href="https://www.apple.com/" crossorigin />
+            <link rel="icon" href="/favicon.ico">
+            <link rel="apple-touch-icon" href="/favicon.ico">
 
             
             <link rel="canonical" href="https://support.apple.com/en-us/HT207958" />
@@ -310,7 +312,8 @@
                 list: ["acs::kb::productcategory::apple watch","acs::kb::productcategory::apple pay","acs::kb::productcategory::ios",]
             }
         
-    }
+    };
+    
 
 </script>
 
@@ -671,9 +674,6 @@
                 
                 >
                 <span class='fieldwrap'>
-                    <label htmlFor='interactiveQuestionSearchField' class='a11y'>
-                        Ask other users about this article
-                    </label>
                     <input type='hidden' id='discussionFormArticleId' name='articleId' value=HT207958 />
                     <input type='hidden' id='ols_discussion_error_no_question' value='Please enter your question!' />
                    <div class="form-element">
