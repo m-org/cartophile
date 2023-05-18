@@ -175,8 +175,6 @@
                 
                     <link rel="alternate" hreflang="fr-fr" href="https://support.apple.com/fr-fr/HT207958">
                 
-                    <link rel="alternate" hreflang="vi-vn" href="https://support.apple.com/vi-vn/HT207958">
-                
                     <link rel="alternate" hreflang="en-gb" href="https://support.apple.com/en-gb/HT207958">
                 
                     <link rel="alternate" hreflang="fi-fi" href="https://support.apple.com/fi-fi/HT207958">
@@ -307,7 +305,6 @@
              testandtarget:{
                 throttle:"0.0" 
             },
-            
             
         },
          
