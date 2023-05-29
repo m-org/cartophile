@@ -4,7 +4,7 @@ on:
     paths:
       - .github/workflows/flat.yml
   schedule:
-    - cron: 48 * * * *
+    - cron: 4 3 * * 2
 jobs:
   scheduled:
     runs-on: ubuntu-latest
