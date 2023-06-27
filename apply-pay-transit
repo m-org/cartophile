@@ -267,7 +267,7 @@
 
                 
 
-                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2023-02-03T07:55:29"}</script>
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2023-06-26T08:54:38"}</script>
 
             
 
@@ -295,11 +295,11 @@
             
             friendly_content: {
                 title: `Where you can ride transit using Apple Pay`,
-                publish_date: "02032023",
+                publish_date: "06262023",
                 
                     content_id: "HT207958",
                     status: "unarchieved",
-                    version: "1.65.38.38"
+                    version: "1.65.38.43"
                 
             },
             
@@ -437,7 +437,7 @@
 </ul>
 <p><strong>Japan</strong></p>
 <ul>
-<li>Add a Suica card* or a PASMO card*. Ride anywhere these cards are accepted.</li>
+<li>Add a Suica card*, a PASMO card*, or an&nbsp;ICOCA card*. Ride anywhere these cards are accepted.</li>
 </ul>
 <p><strong>Singapore</strong></p>
 <ul>
@@ -544,7 +544,7 @@
                                         
                                         
                                             <div class='mod-date'>
-                                                <span>Published Date:</span>&nbsp;<time dateTime=2023-02-03 itemprop='datePublished'>February 03, 2023</time>
+                                                <span>Published Date:</span>&nbsp;<time dateTime=2023-06-26 itemprop='datePublished'>June 26, 2023</time>
                                             </div>
                                         
                                     </div>
