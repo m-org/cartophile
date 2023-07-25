@@ -267,7 +267,7 @@
 
                 
 
-                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2023-06-26T08:54:38"}</script>
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/en-us/HT207958","appid": "1583465330249689","title":"Where you can ride ","pubDate":"2017-08-03T10:43:14","upDate":"2023-07-19T04:56:44"}</script>
 
             
 
@@ -295,11 +295,11 @@
             
             friendly_content: {
                 title: `Where you can ride transit using Apple Pay`,
-                publish_date: "06262023",
+                publish_date: "07192023",
                 
                     content_id: "HT207958",
                     status: "unarchieved",
-                    version: "1.65.38.43"
+                    version: "1.65.38.47"
                 
             },
             
@@ -423,7 +423,7 @@
             <h2>Asia-Pacific</h2>
             <div  ><p><strong>Australia</strong></p>
 <ul>
-<li>Sydney: Transport for NSW. Accepts payment cards in the Wallet app.</li>
+<li>Sydney: Transport for NSW. Accepts payment cards in the Wallet app*.</li>
 </ul>
 <p><strong>China mainland</strong></p>
 <ul>
@@ -544,7 +544,7 @@
                                         
                                         
                                             <div class='mod-date'>
-                                                <span>Published Date:</span>&nbsp;<time dateTime=2023-06-26 itemprop='datePublished'>June 26, 2023</time>
+                                                <span>Published Date:</span>&nbsp;<time dateTime=2023-07-19 itemprop='datePublished'>July 19, 2023</time>
                                             </div>
                                         
                                     </div>
